@@ -6,19 +6,19 @@ public class Helper {
         System.out.println(outputData);  
     }
 
-    // Überladene Methode
-    public static void output(int outputData){
-        System.out.println(outputData);
-    }
+    // // Überladene Methode
+    // public static void output(int outputData){
+    //     System.out.println(outputData);
+    // }
 
-    // Überladene Methode
-    public static void output(boolean outputData){
-        System.out.println(outputData);
-    }
+    // // Überladene Methode
+    // public static void output(boolean outputData){
+    //     System.out.println(outputData);
+    // }
     
-    // Überladene Methode
-    public static void output(Object outputData){
-        System.out.println(outputData);
-    }
+    // // Überladene Methode
+    // public static void output(Object outputData){
+    //     System.out.println(outputData);
+    // }
 
 }

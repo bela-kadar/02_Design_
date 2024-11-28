@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.cc.java.test.App",
+            "projectName": "02_Design__e9ac66"
+        },
+        {
+            "type": "java",
+            "name": "Console",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
