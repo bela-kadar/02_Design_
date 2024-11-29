@@ -1,9 +1,22 @@
 package com.cc.java.tools;
 
+import com.cc.java.assoziation.Customer;
+import com.cc.java.singleton.Singleton;
+
 public class Helper {
 
     public static void output(String outputData) {
         System.out.println(outputData);  
+    }
+
+    public static void output(Customer customer) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'output'");
+    }
+
+    public static void output(Singleton singleton) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'output'");
     }
 
     // // Überladene Methode

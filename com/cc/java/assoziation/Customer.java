@@ -20,6 +20,7 @@ public class Customer {
     /** Assoziation */
     public void initOrder() {
         // Referenz auf erzeugtes Objekt im Heap
+        Helper.output(this);
         order = new Order(1, "repair", this);
     }
 
