@@ -4,6 +4,13 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "com.cc.java.assoziation.App",
+            "projectName": "02_Design__e9ac66"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "com.cc.java.singleton.App",
             "projectName": "02_Design__e9ac66"
         },

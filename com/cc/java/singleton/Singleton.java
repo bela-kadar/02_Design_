@@ -10,7 +10,7 @@ public class Singleton {
 
     // }
     
-}
+
 
 
    // ... in der Klasse
@@ -26,5 +26,20 @@ public static Singleton getInstance() {
     
     // return instance == null ? instance = new Singleton() : instance;
    }
+
+
+   // ... im Objekt
+
+    // Getter für counter
+    public int getCounter() {
+        return counter;
+    }
+
+    // Event? --> counter  = counter + 1
+    public void actOnEvent() {
+        counter ++;
+    }
+}
+
 
 
