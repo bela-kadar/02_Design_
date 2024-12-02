@@ -10,12 +10,12 @@ public class Helper {
     }
 
     public static void output(Customer customer) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'output'");
     }
 
     public static void output(Singleton singleton) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'output'");
     }
 

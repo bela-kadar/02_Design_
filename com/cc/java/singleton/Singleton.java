@@ -31,15 +31,17 @@ public static Singleton getInstance() {
    // ... im Objekt
 
     // Getter für counter
-    public int getCounter() {
+        public int getCounter() {
         return counter;
-    }
+        }
 
     // Event? --> counter  = counter + 1
-    public void actOnEvent() {
+        public void actOnEvent() {
         counter ++;
+        }
+
+    
     }
-}
 
 
 
